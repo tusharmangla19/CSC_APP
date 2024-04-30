@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239451298569",
+    "project_id": "session-planner-iitd-33113",
+    "storage_bucket": "session-planner-iitd-33113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239451298569:android:7152112524bd7be5d151d8",
+        "android_client_info": {
+          "package_name": "com.tushar108.sessionPlanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239451298569-oqv1pm9fh7rtktg8g23nvhfcpej0s3k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tushar108.sessionPlanner",
+            "certificate_hash": "c15be0e2311ba6ea9fa6f1384b1813e4d3a57bab"
+          }
+        },
+        {
+          "client_id": "239451298569-qhkha9ul2j6c1olmb6ckh4kupo9nl8ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tushar108.sessionPlanner",
+            "certificate_hash": "56b94d07577ba53583c9cc7016ef84dc7616bbe5"
+          }
+        },
+        {
+          "client_id": "239451298569-epn2j5c06j5gv0qg2dfn6gpoapqmdchg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSkpGsZFnwMcPoNMNcqkA6q2p-voM8jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239451298569-epn2j5c06j5gv0qg2dfn6gpoapqmdchg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

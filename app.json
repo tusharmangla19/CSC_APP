@@ -1,0 +1,42 @@
+{
+	"expo": {
+		"name": "sessionPlanner",
+		"plugins": [
+			["expo-screen-orientation", { "initialOrientation": "landscape" }],
+			"@react-native-firebase/app",
+			"@react-native-firebase/auth",
+			"@react-native-google-signin/google-signin"
+		],
+
+		"slug": "sessionPlanner",
+		"version": "1.0.0",
+		"orientation": "landscape",
+		"icon": "./assets/icon.png",
+		"userInterfaceStyle": "light",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"googleServicesFile": "./google-services.json",
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/adaptive-icon.png",
+				"backgroundColor": "#ffffff"
+			},
+			"package": "com.tushar108.sessionPlanner"
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		},
+		"extra": {
+			"eas": {
+				"projectId": "66c9fd34-debe-438b-96fb-7c80f05af9ba"
+			}
+		}
+	}
+}
